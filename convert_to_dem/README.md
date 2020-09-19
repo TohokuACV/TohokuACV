@@ -52,4 +52,5 @@ MIT
 
 ## Author
 
-Naoki Mizuno (mizuno.naoki@rm.is.tohoku.ac.jp)
+Original author: Naoki Mizuno (mizuno.naoki@rm.is.tohoku.ac.jp)
+Administrator: acv.tohoku@sanyo-tec.co.jp

@@ -7,7 +7,7 @@ convert_to_dem package.
 Use of the following packages are recommended to convert a DEM described as
 text files into an OccupancyGrid message:
 
-- [`dem_to_occupancy`](https://gitlab.com/tohoku-acv/dem_to_occupancy)
+- [`dem_to_occupancy`](https://github.com/TohokuACV/TohokuACV/tree/master/dem_to_occupancy)
 
 ## How to use
 

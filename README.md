@@ -1,6 +1,6 @@
 ### 処理概要
 
-![20200120_全体会議向け報告資料 近藤](https://user-images.githubusercontent.com/61079474/93884545-000e3a00-fd1e-11ea-8d6b-adb2354adcfe.png)
+![20200120_全体会議向け報告資料 近藤](https://user-images.githubusercontent.com/61079474/93884907-757a0a80-fd1e-11ea-82df-5abd0c45215a.png)
 
 <!--
 **TohokuACV/TohokuACV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
